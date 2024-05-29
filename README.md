@@ -1,3 +1,5 @@
+dart pub get
+
 # Flutter Admin Dashboard Template
 
 This is an admin dashboard template for Flutter.
